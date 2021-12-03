@@ -5,3 +5,5 @@
 #
 
 include device/google/raviole/BoardConfigEvervolv.mk
+
+include vendor/google/raven/BoardConfigVendor.mk
